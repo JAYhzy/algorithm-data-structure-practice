@@ -1,0 +1,16 @@
+.vs/
+.idea/
+cmake-build-*/
+Debug/
+Release/
+x64/
+target/
+bin/
+obj/
+*.exe
+*.obj
+*.class
+*.pdb
+*.ilk
+*.log
+*.tmp
